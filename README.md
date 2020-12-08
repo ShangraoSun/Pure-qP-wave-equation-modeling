@@ -13,6 +13,6 @@ I choose the exponential ABCs proposed by Cerjan (1985) to absorb the boundary r
 This program is aim to extend models used in our main program.
 
 # Discussion
-Although solving implicit FD equation is not a goog choice for seismic modeling, I still want to find a suitable boundary condition for it. After having a research for solution of Poisson equation , I will try to use 'Fast Poisson Solver' (propoed by Stang, 2007) to solve the Poisson equation.
+Although solving implicit FD equation directly is not a good choice, I still want to find a suitable solving method for it. After having a research for solution of Poisson equation , I will try to use 'Fast Poisson Solver' (propoed by Stang, 2007) to solve the Poisson equation. Any good method is welcome.
 
 Any quastion, touch me: 13152175221@163.com
